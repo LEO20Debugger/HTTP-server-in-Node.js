@@ -1,7 +1,7 @@
 # HTTP-server-in-Node.js
 Simple HTTP server in Node.js
 
-*Core Functions:
-http.createServer(): Creates the server instance.
-req (IncomingMessage): Represents the client's request.
+*Core Functions:< br / >
+http.createServer(): Creates the server instance.< br / >
+req (IncomingMessage): Represents the client's request.< br / >
 res (ServerResponse): Represents the server's response to the client.
